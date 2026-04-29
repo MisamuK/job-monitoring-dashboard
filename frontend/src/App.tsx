@@ -113,7 +113,7 @@ function App() {
       <div className="job-list">
         {filteredJobs.length === 0 ? (
           <div className="empty">
-            <p>No jobs found for this filter</p>
+            <p>Aucune offre d'emploi trouvée pour ce filtre.</p>
           </div>
         ) : (
           filteredJobs.map((job) => (
