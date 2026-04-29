@@ -62,9 +62,9 @@ function App() {
 
   return (
     <div className="container">
-      <h1>📊 Job Dashboard</h1>
+      <h1>📊 Tableau de bord des offres d'emploi</h1>
       <p className="subtitle">
-        Monitor and track asynchronous jobs in real time
+        Surveiller et suivre les tâches asynchrones en temps réel.
       </p>
 
       <div className="stats">
